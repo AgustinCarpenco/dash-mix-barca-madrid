@@ -66,4 +66,3 @@ Si deseas actualizar los datos, reemplaza el archivo `Estadisticas_de_Partidos.c
 Si tienes dudas o sugerencias, puedes contactarme a través de GitHub o por email.
 
 ---
-📌 **¡Listo para entregar! 🚀**
